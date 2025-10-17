@@ -48,7 +48,7 @@ Qiang Liu, **Xinlong Chen**, Yue Ding, Bowen Song, Weiqiang Wang, Shu Wu, Liang 
 - *2025.09 - 2030.06 (expected)*, Ph.D. Student in AI, New Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences
   - Supervisor: Prof. [Tieniu Tan](https://scholar.google.com/citations?user=W-FGd_UAAAAJ&hl=en) and Prof. [Qiang Liu](https://scholar.google.com/citations?user=D-lKLcMAAAAJ&hl=en)
 - *2021.09 - 2025.06*, B.Eng. in AI, School of Artificial Intelligence and Automation, Huazhong University of Science and Technology
-  - Rank: 1 / 100 \| Average Grade: 93.67 / 100
+  - Rank: 1 / 100  \|  Average Grade: 93.67 / 100
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
