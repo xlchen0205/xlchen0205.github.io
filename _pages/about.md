@@ -28,20 +28,20 @@ Currently, I am a research intern at [Kling Team](https://github.com/KwaiVGI), [
 # 📝 Selected Publications ([Full List](https://scholar.google.com/citations?hl=en&user=5v7aJCIAAAAJ))
 
 ## Video Understanding
-- **Preprint** | [AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://arxiv.org/abs/2510.10395)<br>
+- **\[Preprint\]** | [AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://arxiv.org/abs/2510.10395)<br>
 **Xinlong Chen**, Yue Ding, Weihong Lin, Jingyun Hua, Linli Yao, Yang Shi, Bozhou Li, Yuanxing Zhang, Qiang Liu, Pengfei Wan, Liang Wang, Tieniu Tan
 
-- **Preprint** | [VidBridge-R1: Bridging QA and Captioning for RL-based Video Understanding Models with Intermediate Proxy Tasks]<br>
+- **\[Preprint\]** | [VidBridge-R1: Bridging QA and Captioning for RL-based Video Understanding Models with Intermediate Proxy Tasks](https://www.arxiv.org/abs/2506.09079)<br>
 **Xinlong Chen**, Yuanxing Zhang, Yushuo Guan, Weihong Lin, Zekun Wang, Bohan Zeng, Yang Shi, Sihan Yang, Qiang Liu, Pengfei Wan, Liang Wang, Tieniu Tan
 
-- **Findings of ACL 2025** | [VidCapBench: A Comprehensive Benchmark of Video Captioning for Controllable Text-to-Video Generation](https://arxiv.org/abs/2502.12782)<br>
+- **\[Findings of ACL 2025\]** | [VidCapBench: A Comprehensive Benchmark of Video Captioning for Controllable Text-to-Video Generation](https://arxiv.org/abs/2502.12782)<br>
 **Xinlong Chen**, Yuanxing Zhang, Chongling Rao, Yushuo Guan, Jiaheng Liu, Fuzheng Zhang, Chengru Song, Qiang Liu, Di Zhang, Tieniu Tan
 
 ## Hallucination Mitigation
-- **EMNLP 2025** | [Attention-guided Self-reflection for Zero-shot Hallucination Detection in Large Language Models](https://arxiv.org/abs/2501.09997)<br>
+- **\[EMNLP 2025\]** | [Attention-guided Self-reflection for Zero-shot Hallucination Detection in Large Language Models](https://arxiv.org/abs/2501.09997)<br>
 Qiang Liu, **Xinlong Chen**, Yue Ding, Bowen Song, Weiqiang Wang, Shu Wu, Liang Wang
 
-- **Findings of ACL 2025** | [Mixture of Decoding: An Attention-Inspired Adaptive Decoding Strategy to Mitigate Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2505.17061)<br>
+- **\[Findings of ACL 2025\]** | [Mixture of Decoding: An Attention-Inspired Adaptive Decoding Strategy to Mitigate Hallucinations in Large Vision-Language Models](https://arxiv.org/abs/2505.17061)<br>
 **Xinlong Chen**, Yuanxing Zhang, Qiang Liu, Junfei Wu, Fuzheng Zhang, Tieniu Tan 
 
 # 📖 Education
@@ -63,7 +63,9 @@ Qiang Liu, **Xinlong Chen**, Yue Ding, Bowen Song, Weiqiang Wang, Shu Wu, Liang 
   - Mentor: [Yuanxing Zhang](https://scholar.google.com/citations?user=COdftTMAAAAJ&hl=en) and [Weihong Lin](https://scholar.google.com/citations?user=Pb9wJ1sAAAAJ&hl=en)
   - Focus: Multimodal understanding
 
+---
+
 <div style="text-align: center;">
 <a href="https://clustrmaps.com/site/1c88n" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=3jKzizCpFZ9dw-JS5N6UVVR8gADb5L9LrWx2T29C93E&cl=ffffff"></a>
-</div>
 Last updated on 2025/10/17
+</div>
