@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinlong Chen"
-description              : "todo"
+# description              : "todo"
 repository               : "xlchen0205.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Xinlong Chen"
+  avatar           : "images/myself.jpg" # TODO
+  bio              : "Ph.D. student at CASIA"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=5v7aJCIAAAAJ"
+  email            : "chenxinlong2025@ia.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
