@@ -21,6 +21,8 @@ Hi there! I am Xinlong Chen (陈鑫龙), a Ph.D. student at [NLPR](http://www.cr
 
 Currently, I am a research intern at [Kling Team](https://github.com/KwaiVGI), [Kuaishou Technology](https://www.kuaishou.com/en), under the guidance of [Yuanxing Zhang](https://scholar.google.com/citations?user=COdftTMAAAAJ&hl=en) and [Weihong Lin](https://scholar.google.com/citations?user=Pb9wJ1sAAAAJ&hl=en).
 
+*I am always open to research discussions and collaboration opportunities——feel free to reach out!* 😁
+
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
