@@ -62,3 +62,8 @@ Qiang Liu, **Xinlong Chen**, Yue Ding, Bowen Song, Weiqiang Wang, Shu Wu, Liang 
 - *2024.11 - Present*, [Kling Team](https://github.com/KwaiVGI), [Kuaishou Technology](https://www.kuaishou.com/en)
   - Mentor: [Yuanxing Zhang](https://scholar.google.com/citations?user=COdftTMAAAAJ&hl=en) and [Weihong Lin](https://scholar.google.com/citations?user=Pb9wJ1sAAAAJ&hl=en)
   - Focus: Multimodal understanding
+
+<div style="text-align: center;">
+<a href="https://clustrmaps.com/site/1c88n" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=3jKzizCpFZ9dw-JS5N6UVVR8gADb5L9LrWx2T29C93E&cl=ffffff"></a>
+</div>
+Last updated on 2025/10/17
