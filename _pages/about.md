@@ -30,10 +30,13 @@ Currently, I am a research intern at [Kling Team](https://github.com/KwaiVGI), [
 # 📝 Selected Publications ([Full List](https://scholar.google.com/citations?hl=en&user=5v7aJCIAAAAJ))
 
 ## Video Understanding
-- **\[Preprint\]** | [AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://arxiv.org/abs/2510.10395)<br>
+- **\[Preprint\]** | [DiaDem: Advancing Dialogue Descriptions in Audiovisual Video Captioning for Multimodal Large Language Models](https://arxiv.org/abs/2601.19267)<br>
+**Xinlong Chen**, Weihong Lin, Jingyun Hua, Linli Yao, Yue Ding, Bozhou Li, Bohan Zeng, Yang Shi, Qiang Liu, Yuanxing Zhang, Pengfei Wan, Liang Wang, Tieniu Tan
+
+- **\[ICLR 2026\]** | [AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://arxiv.org/abs/2510.10395)<br>
 **Xinlong Chen**, Yue Ding, Weihong Lin, Jingyun Hua, Linli Yao, Yang Shi, Bozhou Li, Yuanxing Zhang, Qiang Liu, Pengfei Wan, Liang Wang, Tieniu Tan
 
-- **\[Preprint\]** | [VidBridge-R1: Bridging QA and Captioning for RL-based Video Understanding Models with Intermediate Proxy Tasks](https://www.arxiv.org/abs/2506.09079)<br>
+- **\[ICLR 2026\]** | [VidBridge-R1: Bridging QA and Captioning for RL-based Video Understanding Models with Intermediate Proxy Tasks](https://www.arxiv.org/abs/2506.09079)<br>
 **Xinlong Chen**, Yuanxing Zhang, Yushuo Guan, Weihong Lin, Zekun Wang, Bohan Zeng, Yang Shi, Sihan Yang, Qiang Liu, Pengfei Wan, Liang Wang, Tieniu Tan
 
 - **\[Findings of ACL 2025\]** | [VidCapBench: A Comprehensive Benchmark of Video Captioning for Controllable Text-to-Video Generation](https://arxiv.org/abs/2502.12782)<br>
