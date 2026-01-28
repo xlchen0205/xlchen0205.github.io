@@ -72,5 +72,5 @@ Qiang Liu, **Xinlong Chen**, Yue Ding, Bowen Song, Weiqiang Wang, Shu Wu, Liang 
 
 <div style="text-align: center;">
 <a href="https://clustrmaps.com/site/1c88n" title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=3jKzizCpFZ9dw-JS5N6UVVR8gADb5L9LrWx2T29C93E&cl=ffffff"></a>
-<div style="margin-top: 5px; font-size: 0.85em; color: #999;">Last updated: October 17, 2025</div>
+<div style="margin-top: 5px; font-size: 0.85em; color: #999;">Last updated: January 28, 2026</div>
 </div>
