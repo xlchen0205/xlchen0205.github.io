@@ -33,7 +33,7 @@ Currently, I am a research intern at [Kling Team](https://github.com/KwaiVGI), [
 - **\[Preprint\]** | [DiaDem: Advancing Dialogue Descriptions in Audiovisual Video Captioning for Multimodal Large Language Models](https://arxiv.org/abs/2601.19267)<br>
 **Xinlong Chen**, Weihong Lin, Jingyun Hua, Linli Yao, Yue Ding, Bozhou Li, Bohan Zeng, Yang Shi, Qiang Liu, Yuanxing Zhang, Pengfei Wan, Liang Wang, Tieniu Tan
 
-- **\[ICLR 2026\]** | [AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://arxiv.org/abs/2510.10395)<br>
+- **\[ICLR 2026\]** | [AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration](https://arxiv.org/abs/2510.10395) ![](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fhuggingface.co%2Fapi%2Fmodels%2FAVoCaDO-Captioner%2FAVoCaDO%3Fexpand%255B%255D%3Ddownloads%26expand%255B%255D%3DdownloadsAllTime&query=downloadsAllTime&style=social&logo=huggingface&logoColor=yellow&label=HF%20Downloads)<br>
 **Xinlong Chen**, Yue Ding, Weihong Lin, Jingyun Hua, Linli Yao, Yang Shi, Bozhou Li, Yuanxing Zhang, Qiang Liu, Pengfei Wan, Liang Wang, Tieniu Tan
 
 - **\[ICLR 2026\]** | [VidBridge-R1: Bridging QA and Captioning for RL-based Video Understanding Models with Intermediate Proxy Tasks](https://www.arxiv.org/abs/2506.09079)<br>
